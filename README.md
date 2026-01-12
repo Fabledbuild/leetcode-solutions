@@ -1,5 +1,4 @@
 # leetcode-solutions
-# LeetCode Solutions 🚀
 
 # Day 01
 # 1266. Minimum Time Visiting All Points
